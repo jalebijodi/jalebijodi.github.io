@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/app/static/css/main.898df045.css",
-    "main.js": "/app/static/js/main.a9207807.js",
-    "static/js/787.c1112931.chunk.js": "/app/static/js/787.c1112931.chunk.js",
-    "static/media/brand.png": "/app/static/media/brand.3046cd39ef7b0770d6ed.png",
-    "static/media/hero.svg": "/app/static/media/hero.12149168b920f5a0f3bcb96ba88d3be1.svg",
-    "static/media/sitting-couple.svg": "/app/static/media/sitting-couple.e20745ac02f54a54c5131b8f662a7b03.svg",
-    "static/media/wedding.svg": "/app/static/media/wedding.1766c9ac76b7b0d674ab9272c7e118ab.svg",
-    "static/media/swipe.svg": "/app/static/media/swipe.f70b4b93510a33c4409c977bd7b50712.svg",
-    "index.html": "/app/index.html",
-    "main.898df045.css.map": "/app/static/css/main.898df045.css.map",
-    "main.a9207807.js.map": "/app/static/js/main.a9207807.js.map",
-    "787.c1112931.chunk.js.map": "/app/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/static/css/main.898df045.css",
+    "main.js": "/static/js/main.9fb8b676.js",
+    "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
+    "static/media/brand.png": "/static/media/brand.3046cd39ef7b0770d6ed.png",
+    "static/media/hero.svg": "/static/media/hero.12149168b920f5a0f3bcb96ba88d3be1.svg",
+    "static/media/sitting-couple.svg": "/static/media/sitting-couple.e20745ac02f54a54c5131b8f662a7b03.svg",
+    "static/media/wedding.svg": "/static/media/wedding.1766c9ac76b7b0d674ab9272c7e118ab.svg",
+    "static/media/swipe.svg": "/static/media/swipe.f70b4b93510a33c4409c977bd7b50712.svg",
+    "index.html": "/index.html",
+    "main.898df045.css.map": "/static/css/main.898df045.css.map",
+    "main.9fb8b676.js.map": "/static/js/main.9fb8b676.js.map",
+    "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.898df045.css",
-    "static/js/main.a9207807.js"
+    "static/js/main.9fb8b676.js"
   ]
 }
