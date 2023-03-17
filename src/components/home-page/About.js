@@ -6,12 +6,9 @@ import url from '../images/sitting-couple.svg';
 import Heading from '../utilities/Heading';
 import Description from '../utilities/Description';
 import Picture from '../utilities/Picture';
-import Caption from '../utilities/Caption'
 
-const name = 'Supriya Kankure';
-const title = 'Founder, Jalebi Jodi';
 const heading = 'Why Us';
-const description = 'As someone who has personally struggled with dating apps, matrimonial sites, and speed dating events, I understand the difficulties off finding a romantic partner. That\'s why I founded Jalebi Jodi, a consulting service to help others navigate the dating process. Our services are completely free and open to all individuals regardless of background.';
+const description = 'At Jalebi Jodi, we offer free services to help you find the love of your life. Our passionate volunteers have extensive knowledge of dating apps, matrimonial sites, and speed dating events. We believe everyone deserves the best chance at finding love, so our services are completely free and open to all individuals, regardless of background. Let us help you on your journey toward a fulfilling and happy relationship.';
 
 const About = () => {
   return (
@@ -20,7 +17,6 @@ const About = () => {
         <Col xs={12} md={6} className='px-3'>
           <Heading heading={heading} />
           <Description description={description} />
-          <Caption name={name} title={title} />
         </Col>
         <Col xs={12} md={6} className='px-3'>
           <Picture url={url} />

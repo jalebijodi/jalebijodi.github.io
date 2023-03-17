@@ -6,6 +6,10 @@ import Image from "react-bootstrap/Image";
 import Row from 'react-bootstrap/Row';
 import url from '../images/hero.svg';
 
+function Paragraph(){
+  return <p className="py-1">Sweeten your love life with Jalebi Jodi's free coaching services!</p>
+}
+
 function Heading() {
   return <h1 className=" py-4 hero-header section-header">Ready for Love?</h1>
 }
@@ -32,6 +36,7 @@ const Hero = () => {
       <Row data-aos="fade-down" className=' hero-section-container g-0'>
         <Col xs={12} xl={6} className='px-3'>
           <Heading />
+          <Paragraph />
           <Btn />
         </Col>
         <Col xs={12} xl={6}>
