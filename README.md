@@ -76,6 +76,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 git add .
 git commit -am"commit message here"
 git push
+
+
+### How to Deploy
 npm run deploy 
 
 ### Guide used in setting this project up 
