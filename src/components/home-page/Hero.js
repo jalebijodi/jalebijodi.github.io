@@ -7,7 +7,7 @@ import Row from 'react-bootstrap/Row';
 import url from '../images/hero.svg';
 
 function Paragraph(){
-  return <p className="py-1">Sweeten your love life with Jalebi Jodi's free coaching services!</p>
+  return <p className="py-1">Sweeten your love life with Jalebi Jodi's coaching services!</p>
 }
 
 function Heading() {
