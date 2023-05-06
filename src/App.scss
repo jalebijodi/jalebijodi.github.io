@@ -83,7 +83,9 @@ li,
 }
 
 .hero-section-container {
-/*   background-image: url('./components/images/balloon.svg'); */
+ background-image: url('./components/images/hot-air.svg'); 
+ background-repeat:repeat-y;
+background-position: left;
 }
 
 @media (min-width: 768px) {

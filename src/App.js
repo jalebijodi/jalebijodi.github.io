@@ -9,6 +9,7 @@ import Terms from "./components/Terms";
 import { Routes, Route } from "react-router-dom";
 import Privacy from "./components/Privacy";
 import Container from 'react-bootstrap/Container';
+import Guide from "./components/Guide";
 
 function App() {
   useEffect(() => {
@@ -28,6 +29,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/terms" element={<Terms />} />
           <Route path="/privacy" element={<Privacy />} />
+          <Route path="/guide" element={<Guide />} />
         </Routes>
         <Footer />
       </Container>

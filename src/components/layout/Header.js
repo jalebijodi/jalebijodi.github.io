@@ -24,13 +24,15 @@ const Header = () => {
         </Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav" className='justify-content-end'>
-        <Nav className=''>
+        <Nav>
 
-       
+
+
+
+
+        <Link to="/guide" className="nav-link">GUIDE</Link>
           <Nav.Link href="https://docs.google.com/forms/d/e/1FAIpQLScXQpizY_7U1NdC4YDMWxCM6sPkmRTMBea2u50khCdEBjTQUQ/viewform" target="_blank">PROFILE REVIEWS</Nav.Link>
-
           <Nav.Link href="https://docs.google.com/forms/d/e/1FAIpQLSfqw0e4ac4TUOlOTYSISGGlhxS6R_6oftoksDLqERwNnwpIhA/viewform" target="_blank">CONSULTING</Nav.Link>
-
         </Nav>
       </Navbar.Collapse>
     </Container>
