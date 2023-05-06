@@ -80,10 +80,16 @@ li,
 
 .hero-header {
   font-size: 75px !important;
+
+  @media only screen and (min-width: 0px) and (max-width: 768px) {
+    font-size: 56px !important;
+  }
+  
+
 }
 
 .hero-section-container {
- background-image: url('./components/images/hot-air.svg'); 
+/*  background-image: url('./components/images/hot-air.svg');  */
  background-repeat:repeat-y;
 background-position: left;
 }

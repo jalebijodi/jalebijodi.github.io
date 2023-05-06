@@ -8,7 +8,7 @@ import Description from '../utilities/Description';
 import Picture from '../utilities/Picture';
 
 const heading = 'Why Us';
-const description = 'At Jalebi Jodi, we offer free services to help you find the love of your life. Our passionate volunteers have extensive knowledge of dating apps, matrimonial sites, and speed dating events. We believe everyone deserves the best chance at finding love, so our services are completely free and open to all individuals, regardless of background. Let us help you on your journey toward a fulfilling and happy relationship.';
+const description = 'At Jalebi Jodi, we offer services to help you find the love of your life. Our team has extensive knowledge of dating apps, matrimonial sites, and speed dating events. We believe everyone deserves the best chance at finding love, so our services are open to all individuals, regardless of background. Let us help you on your journey toward a fulfilling and happy relationship.';
 
 const About = () => {
   return (
