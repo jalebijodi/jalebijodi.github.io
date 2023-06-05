@@ -5,8 +5,8 @@ import { Link } from "react-router-dom";
 
 function SocialMediaIcons(){
     return<ul className="social-media-links list-unstyled justify-content-center d-flex">
-          <li><a href="https://twitter.com/jalebi_jodi" target='blank'> <i className="bi bi-twitter social-media-icon" /></a></li>
-          <li><a href="https://www.instagram.com/jalebi_jodi/" target='blank'> <i className="bi bi-instagram social-media-icon" /></a></li>
+          <li><a href="https://twitter.com/jalebijodioff" target='blank'> <i className="bi bi-twitter social-media-icon" /></a></li>
+          <li><a href="https://www.instagram.com/jalebijodiofficial/" target='blank'> <i className="bi bi-instagram social-media-icon" /></a></li>
           <li><a href="https://www.facebook.com/profile.php?id=100090281280553" target='blank'> <i className="bi bi-facebook social-media-icon" /></a></li>
           <li><a href="mailto:info@jalebijodi.com"> <i className="bi bi-envelope social-media-icon" /></a></li>
           </ul>
