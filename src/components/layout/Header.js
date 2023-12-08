@@ -4,7 +4,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import { Link } from "react-router-dom";
 
-import url from '../images/brand.png';
+import url from '../images/brand24.png';
 
 const Header = () => {
   return (
